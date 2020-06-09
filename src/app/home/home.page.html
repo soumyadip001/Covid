@@ -1,0 +1,20 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Contagi<span class="logo-hghlight">NO</span>
+	</ion-title>
+	<ion-select interface="popover" style="position:absolute; right:50px; top:6px; border:1px solid #cdcdcd; z-index:99999; width:120px" name="selectedFilter" [(ngModel)] = "selectedFilter" (ionChange)="loadMap()">
+            <ion-select-option value="All">All</ion-select-option>
+            <ion-select-option *ngFor = "let eachSymp of filteredSymptoms; let i = index" value="{{eachSymp}}">{{eachSymp}}</ion-select-option>
+     </ion-select>
+	<ion-buttons slot="end">
+		<ion-button color="danger" shape="round" size = 'large' (click)="getMapData()" title="Refresh Map">
+			<ion-icon name="refresh-outline"></ion-icon>
+		</ion-button>
+	</ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+	<div #mapElement class="map"></div>
+</ion-content>

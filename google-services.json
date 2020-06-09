@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1091155070722",
+    "firebase_url": "https://contaginodev.firebaseio.com",
+    "project_id": "contaginodev",
+    "storage_bucket": "contaginodev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091155070722:android:96c7152d50c122003a3c1b",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091155070722-91sjs3bv36p8d4lg0nl2dm9jlq8v6h7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2V7gWmEAoMPpAlW-aT26VHCIlf4ThydA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091155070722-91sjs3bv36p8d4lg0nl2dm9jlq8v6h7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

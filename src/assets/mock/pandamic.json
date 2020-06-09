@@ -1,0 +1,115 @@
+{
+	"map": [{
+	"city": "HARRISBURG",
+	"occurance": 1,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "43.446021",
+	"longitude": "-96.686389"
+}, {
+	"city": "MICHIGAN",
+	"occurance": 1,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "48.04144",
+	"longitude": "-98.124243"
+}, {
+	"city": "PENN",
+	"occurance": 1,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "40.330081",
+	"longitude": "-79.641336"
+}, {
+	"city": "JERUSALEM",
+	"occurance": 3,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "39.848831",
+	"longitude": "-81.092088"
+}, {
+	"city": "LOS ANGELES",
+	"occurance": 1,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "33.973093",
+	"longitude": "-118.247896"
+}, {
+	"city": "NEW YORK",
+	"occurance": 1,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "40.74838",
+	"longitude": "-73.996705"
+}, {
+	"city": "CHINA",
+	"occurance": 5,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "30.047778",
+	"longitude": "-94.335556"
+}, {
+	"city": "VIRGIN",
+	"occurance": 1,
+	"symptoms": [{
+		"symptoms": "Unknown Fever"
+	}],
+	"latitude": "37.188889",
+	"longitude": "-113"
+}, {
+	"city": "ITALY",
+	"occurance": 4,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "32.178508",
+	"longitude": "-96.88229"
+}, {
+	"city": "ATLANTIC",
+	"occurance": 1,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "37.900556",
+	"longitude": "-75.508056"
+}, {
+	"city": "MIDWEST",
+	"occurance": 1,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "43.410829",
+	"longitude": "-106.266818"
+}, {
+	"city": "DETROIT",
+	"occurance": 1,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "33.662691",
+	"longitude": "-95.23848"
+}, {
+	"city": "ALBERTA",
+	"occurance": 1,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "36.880609",
+	"longitude": "-77.905518"
+}, {
+	"city": "ZURICH",
+	"occurance": 1,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "48.584444",
+	"longitude": "-109.029722"
+}]
+}

@@ -1,0 +1,39 @@
+{
+	"map": [{
+			"city": "New York",
+			"LATITUDE": "40.74838",
+			"LONGITUDE": "-73.996705",
+			"symptoms": [{
+				"sympton": "Fever"
+			}, {
+				"sympton": "Cough & Cold"
+			}]
+		},
+		{
+			"city": "Chicago",
+			"LATITUDE": "41.885847",
+			"LONGITUDE": "-87.618123",
+			"symptoms": [{
+				"sympton": "diarrhea"
+			}]
+		},
+		{
+			"city": "Mohall",
+			"LATITUDE": "48.765814",
+			"LONGITUDE": "-101.554512",
+			"symptoms": [{
+				"sympton": "Corona"
+			}]
+		},
+		{
+			"city": "Radcliff",
+			"LATITUDE": "37.840278",
+			"LONGITUDE": "-85.949167",
+			"symptoms": [{
+				"sympton": "Corona"
+			}, {
+				"sympton": "Cough & Cold"
+			}]
+		}
+	]
+}

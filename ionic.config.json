@@ -1,0 +1,7 @@
+{
+  "name": "contagiNO",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
