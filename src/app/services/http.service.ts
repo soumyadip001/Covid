@@ -29,11 +29,6 @@ export class HttpAppService {
         retry(1),
         catchError(this.errorHandl)
       )
-    // return this.http.get<any>(AppSettings.SERVER_DEV + AppSettings.PANDEMIC_API)
-    // .pipe(
-    // retry(1),
-    // catchError(this.errorHandl)
-    // )
   }
 
 

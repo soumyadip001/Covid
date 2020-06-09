@@ -1,115 +1,131 @@
 {
 	"map": [{
-	"city": "HARRISBURG",
-	"occurance": 1,
+	"city": "Maharashtra",
+	"occurance": 82968,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "43.446021",
-	"longitude": "-96.686389"
+	"latitude": "19.7515",
+	"longitude": "75.7139"
 }, {
-	"city": "MICHIGAN",
-	"occurance": 1,
+	"city": "Tamil Nadu",
+	"occurance": 33229,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "48.04144",
-	"longitude": "-98.124243"
+	"latitude": "11.1271",
+	"longitude": "78.6569"
 }, {
-	"city": "PENN",
-	"occurance": 1,
+	"city": "Delhi",
+	"occurance": 27654,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "40.330081",
-	"longitude": "-79.641336"
+	"latitude": "28.7041",
+	"longitude": "77.1025"
 }, {
-	"city": "JERUSALEM",
-	"occurance": 3,
+	"city": "Gujarat",
+	"occurance": 19592,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "39.848831",
-	"longitude": "-81.092088"
+	"latitude": "22.2587",
+	"longitude": "71.1924"
 }, {
-	"city": "LOS ANGELES",
-	"occurance": 1,
+	"city": "Rajasthan",
+	"occurance": 10331,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "33.973093",
-	"longitude": "-118.247896"
+	"latitude": "27.0238",
+	"longitude": "74.2179"
 }, {
-	"city": "NEW YORK",
-	"occurance": 1,
+	"city": "Uttar Pradesh",
+	"occurance": 9733,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "40.74838",
-	"longitude": "-73.996705"
+	"latitude": "26.8467",
+	"longitude": "80.9462"
 }, {
-	"city": "CHINA",
-	"occurance": 5,
+	"city": "Madhya Pradesh",
+	"occurance": 9228,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "30.047778",
-	"longitude": "-94.335556"
+	"latitude": "22.9734",
+	"longitude": "78.6569"
 }, {
-	"city": "VIRGIN",
-	"occurance": 1,
-	"symptoms": [{
-		"symptoms": "Unknown Fever"
-	}],
-	"latitude": "37.188889",
-	"longitude": "-113"
-}, {
-	"city": "ITALY",
-	"occurance": 4,
+	"city": "West Bengal",
+	"occurance": 7738,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "32.178508",
-	"longitude": "-96.88229"
+	"latitude": "22.9868",
+	"longitude": "87.8550"
 }, {
-	"city": "ATLANTIC",
-	"occurance": 1,
+	"city": "Karnataka",
+	"occurance": 5213,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "37.900556",
-	"longitude": "-75.508056"
+	"latitude": "15.3173",
+	"longitude": "75.7139"
 }, {
-	"city": "MIDWEST",
-	"occurance": 1,
+	"city": "Bihar",
+	"occurance": 4915,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "43.410829",
-	"longitude": "-106.266818"
+	"latitude": "25.0961",
+	"longitude": "85.3131"
 }, {
-	"city": "DETROIT",
-	"occurance": 1,
+	"city": "Andhra Pradesh",
+	"occurance": 4510,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "33.662691",
-	"longitude": "-95.23848"
+	"latitude": "15.9129",
+	"longitude": "79.7400"
 }, {
-	"city": "ALBERTA",
-	"occurance": 1,
+	"city": "Haryana",
+	"occurance": 3952,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "36.880609",
-	"longitude": "-77.905518"
+	"latitude": "29.0588",
+	"longitude": "76.0856"
 }, {
-	"city": "ZURICH",
-	"occurance": 1,
+	"city": "Telangana",
+	"occurance": 3496,
 	"symptoms": [{
 		"symptoms": "Covid19"
 	}],
-	"latitude": "48.584444",
-	"longitude": "-109.029722"
+	"latitude": "18.1124",
+	"longitude": "79.0193"
+}, {
+	"city": "Jammu and Kashmir",
+	"occurance": 3467,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "33.7782",
+	"longitude": "76.5762"
+},{
+	"city": "Odisha",
+	"occurance": 2781,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "20.9517",
+	"longitude": "85.0985"
+},{
+	"city": "Kerala",
+	"occurance": 1807,
+	"symptoms": [{
+		"symptoms": "Covid19"
+	}],
+	"latitude": "10.8505",
+	"longitude": "76.2711"
 }]
 }

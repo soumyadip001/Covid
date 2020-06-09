@@ -53,7 +53,8 @@ export class HomePage implements OnInit, AfterContentInit {
 		self.HttpAppService.getPandemicData()
 			.subscribe(
 				(data) => {
-					self.demoPandData = data;
+					console.log(data.map);
+					self.demoPandData = data.map;
 					self.demoPandData.forEach((eachcase) => {
 						(eachcase.symptoms).forEach((eachSymptom) => {
 							if (self.filteredSymptoms.indexOf(eachSymptom.symptoms) == -1) { self.filteredSymptoms.push(eachSymptom.symptoms) }
@@ -76,7 +77,7 @@ export class HomePage implements OnInit, AfterContentInit {
 			// }
 		// ).then((resp) => {
 			//self.latlng = new google.maps.LatLng(resp.coords.latitude, resp.coords.longitude);
-			self.latlng = new google.maps.LatLng(39.5, -98.35);
+			self.latlng = new google.maps.LatLng(22.5726, 88.3639);
 			self.map = new google.maps.Map(
 				self.mapElement.nativeElement, {
 				center: self.latlng,
@@ -118,7 +119,6 @@ export class HomePage implements OnInit, AfterContentInit {
 						draggable: false,
 						animation: google.maps.Animation.DROP,
 						title: eachcase.city,
-						icon: '../assets/icon/marker.png',
 						position: { lat: parseFloat(eachcase.latitude), lng: parseFloat(eachcase.longitude) }
 					});
 				} else if (citySymptoms.indexOf(self.selectedFilter) != -1) {

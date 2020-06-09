@@ -1,38 +1,34 @@
 {
 	"map": [{
-			"city": "New York",
-			"LATITUDE": "40.74838",
-			"LONGITUDE": "-73.996705",
-			"symptoms": [{
-				"sympton": "Fever"
-			}, {
-				"sympton": "Cough & Cold"
-			}]
-		},
-		{
-			"city": "Chicago",
-			"LATITUDE": "41.885847",
-			"LONGITUDE": "-87.618123",
-			"symptoms": [{
-				"sympton": "diarrhea"
-			}]
-		},
-		{
-			"city": "Mohall",
-			"LATITUDE": "48.765814",
-			"LONGITUDE": "-101.554512",
+			"city": "Kolkata",
+			"LATITUDE": "22.5726",
+			"LONGITUDE": "88.3639",
 			"symptoms": [{
 				"sympton": "Corona"
 			}]
 		},
 		{
-			"city": "Radcliff",
-			"LATITUDE": "37.840278",
-			"LONGITUDE": "-85.949167",
+			"city": "Burdwan",
+			"LATITUDE": "23.2324",
+			"LONGITUDE": "87.8615",
 			"symptoms": [{
 				"sympton": "Corona"
-			}, {
-				"sympton": "Cough & Cold"
+			}]
+		},
+		{
+			"city": "Mumbai",
+			"LATITUDE": "19.0760",
+			"LONGITUDE": "72.8777",
+			"symptoms": [{
+				"sympton": "Corona"
+			}]
+		},
+		{
+			"city": "Delhi",
+			"LATITUDE": "28.7041",
+			"LONGITUDE": "77.1025",
+			"symptoms": [{
+				"sympton": "Corona"
 			}]
 		}
 	]
